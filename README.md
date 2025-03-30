@@ -7,10 +7,15 @@ The model predicts whether a given timestamp is anomalous or normal, making it s
 
 Key Features
 ✅ Stable Diffusion Model for anomaly detection
+
 ✅ Anomaly scores from MTAD-GAT used as conditioning input
+
 ✅ Reverse diffusion process incorporates anomaly scores
+
 ✅ Best F1-score optimization achieved 0.96 F1-score
+
 ✅ Requires a GPU for Training on a New Dataset
+
 
 Performance
 F1-Score: 0.96 (using best F1-score search method)
@@ -18,12 +23,14 @@ F1-Score: 0.96 (using best F1-score search method)
 Usage
 This model can be applied to various time-series anomaly detection tasks, including:
 
-Fraud detection 
+This model can be applied to various time-series anomaly detection tasks, including:
 
-Industrial equipment monitoring
+🏦 Fraud Detection
 
-Network intrusion detection
+🏭 Industrial Equipment Monitoring
 
-Healthcare anomaly detection
+🌐 Network Intrusion Detection
+
+🏥 Healthcare Anomaly Detection
 
 

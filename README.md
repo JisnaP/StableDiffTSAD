@@ -1,4 +1,5 @@
 Stable Diffusion for Anomaly Detection in Multivariate Time Series
+
 This project implements a Stable Diffusion Model for anomaly detection in multivariate time series data. The model leverages anomaly scores computed using the MTAD-GAT model as a conditioning input in the reverse diffusion process to improve anomaly detection accuracy.
 
 Objective
